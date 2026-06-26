@@ -19,10 +19,10 @@ With extensive experience in diagnostic surgical pathology and laboratory medici
 - Hematopathololgy
 
 In addition to clinical practice, I have a strong interest in:
--Pathology education
-Quality improvement
-Digital pathology
-Artificial intelligence in pathology. 
+- Pathology education
+- Quality improvement
+- Digital pathology
+- Artificial intelligence in pathology. 
 
 This website serves as a professional platform to share my biography, curriculum vitae, publications, educational materials, presentations, and selected pathology resources. 
 
