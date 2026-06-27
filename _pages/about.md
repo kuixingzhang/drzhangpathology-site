@@ -22,8 +22,8 @@ I am Dr. Kuixing Zhang, MD, Medical Director and Anatomic & Clinical Pathologist
 - Digital pathology
 - Artificial intelligence in pathology
   
-### Professional Resources
-This website provides my vision, presentations, selected pathology resources, my curriculum vitae and publications. 
+### Website highlights
+This website features my curriculum vitae, publications, presentations, educational materials, and selected pathology resources.
 
 ### Mission
 My mission is to advance diagnostic excellence through patient-centered pathology, education, digital innovation, and lifelong learning.
