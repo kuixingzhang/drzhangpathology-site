@@ -13,7 +13,7 @@ Advancing diagnostic pathology through excellence, education, and innovation.
 I am Dr. Kuixing Zhang, MD, Medical Director and Anatomic & Clinical Pathologist at Saint Agnes Medical Center in Fresno, California.
 With extensive experience in diagnostic surgical pathology and laboratory medicine, I am committed to providing accurate, timely, and patient-centered pathology services. 
 
-Areas of Expertise:
+### Areas of Expertise
 - Gastrointestinal pathology
 - Breast pathology
 - Gynecologic pathology
@@ -22,7 +22,9 @@ Areas of Expertise:
 - Pathology education
 - Quality improvement
 - Digital pathology
-- Artificial intelligence in pathology. 
+- Artificial intelligence in pathology.
+  
+### About This Website
 This website serves as a professional platform to share my biography, curriculum vitae, publications, educational materials, presentations, and selected pathology resources. 
-## Mission
+### Mission
 My mission is to impprove patient care by advancing diagnostic pathology through education, innovation, and digital technologies.
