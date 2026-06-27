@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Diagnostic Excellence
-Where Pathology Meets Innovation"
+title: "Diagnostic Excellence"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +14,7 @@ I am Dr. Kuixing Zhang, MD, Medical Director and Anatomic & Clinical Pathologist
 
 With extensive experience in diagnostic surgical pathology and laboratory medicine, I am committed to providing accurate, timely, and patient-centered pathology services. 
 
-Professional interests
+Areas of Expertise
 - Gastrointestinal pathology
 - Breast pathology
 - Gynecologic pathology
@@ -29,4 +28,4 @@ Professional interests
 This website serves as a professional platform to share my biography, curriculum vitae, publications, educational materials, presentations, and selected pathology resources. 
 
 ## Mission
-My mission is to promote excellence in diagnostic through clinical clinical practice, education, digital pathology and artificial intelligence.
+My mission is to impprove patient care by advancing diagnostic pathology through education, innovation, and digital technologies.
