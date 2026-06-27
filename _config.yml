@@ -23,7 +23,7 @@ repository               : "kuixingzhang/drzhangpathology-site"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile_500.png"
+  avatar           : "images/profile.png"
   name             : "Dr. Kuixing Zhang, MD"
   pronouns         : # example: ""  
   bio              : "Medical Director | Anatomic & Clinical pathologist"
