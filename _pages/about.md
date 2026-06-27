@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Diagnostic Excellence"
 author_profile: true
 redirect_from: 
   - /about/
