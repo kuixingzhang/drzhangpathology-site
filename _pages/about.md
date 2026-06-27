@@ -22,8 +22,10 @@ With extensive experience in diagnostic surgical pathology and laboratory medici
 - Pathology education
 - Quality improvement
 - Digital pathology
-- Artificial intelligence in pathology.  
+- Artificial intelligence in pathology
+  
 ### Professional Resources
 This website serves as a professional platform to share my biography, curriculum vitae, publications, educational materials, presentations, and selected pathology resources. 
+
 ### Mission
 My mission is to advance diagnostic excellence through patient-centered pathology, education, digital innovation, and lifelong learning.
