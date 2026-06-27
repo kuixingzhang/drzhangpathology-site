@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Diagnostic Excellence
-- Where Pathology Meets Innovation -"
+Where Pathology Meets Innovation"
 author_profile: true
 redirect_from: 
   - /about/
