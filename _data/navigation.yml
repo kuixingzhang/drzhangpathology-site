@@ -8,17 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Cases"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /guide/
+    url: /teaching/
+
+  - title: "Business"
+    url: /business/
+
+  - title: "Pathology GPS"
+    url: https://www.pathologygps.com
 
   - title: "星河草堂"
     url: https://www.xinghecaotang.com
