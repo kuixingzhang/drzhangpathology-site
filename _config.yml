@@ -23,22 +23,22 @@ repository               : "kuixingzhang/drzhangpathology-site"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar : "profile.png"
-name : 'Kuixing Zhang, MD, Ph.D.'
-bio : "Medical Director • Pathologist, Anatomic and Clinical • Founder of Pathology GPS"
-location : "Fresno, California"
-employer : "Saint Agnes Medical Center"
-email : "kuixing.zhang@samc.com"
+  avatar           : "profile.png"
+  name             : 'Kuixing Zhang, MD, Ph.D.'
+  bio              : "Medical Director • Pathologist, Anatomic and Clinical • Founder of Pathology GPS"
+  location         : "Fresno, California"
+  employer         : "Saint Agnes Medical Center"
+  email            : "kuixing.zhang@samc.com"
 
-googlescholar :
-orcid :
-pubmed :
+  googlescholar    :
+  orcid            :
+  pubmed           :
 
-github :
+  github           :
 
-bluesky :
-linkedin :
-twitter :
+  bluesky          :
+  linkedin         :
+  twitter          :
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
