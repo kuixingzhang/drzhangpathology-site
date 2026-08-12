@@ -1,27 +1,94 @@
-Business
-Raphael Clinic Corp
+---
+permalink: /business/
+title: "Business"
+author_profile: true
+---
+
+# Business
+
+### Professional Practice, Innovation, and Operations
+
+This section serves as the professional business hub of Zhang Pathology.
+
+It brings together clinical practice, pathology innovation, and operational management under a unified platform.
+
+---
+
+## Raphael Clinic Corp
+
+### Professional Medical Corporation
 
 Raphael Clinic Corp is a California professional medical corporation dedicated to pathology and laboratory medicine.
 
-Services
-Pathology Consultation
-Laboratory Medicine
-Medical Directorship
+Areas of focus include:
 
-Pathology GPS
+- Surgical Pathology
+- Clinical Pathology
+- Laboratory Medicine
+- Medical Directorship
+- Quality Improvement
+- Pathology Consultation
 
-Pathology GPS is an educational and decision-support platform designed for pathology residents and practicing pathologists.
+The corporation supports professional pathology services and future educational and consulting initiatives.
 
-Mission
+---
 
-To transform uncertainty into diagnostic confidence.
+## Pathology GPS
 
-Vision
+### A Practical GPS for Diagnostic Pathology
 
-To build a practical GPS for diagnostic pathology.
+Pathology GPS is an evolving educational and diagnostic platform designed to help pathologists navigate complex diagnoses.
 
-Enter Pathology GPS
+Built around the workflow of everyday pathology practice:
 
-Contact
+> Organ → Pattern → Diagnosis
 
-For professional inquiries, please contact Dr. Kuixing Zhang.
+Current development areas include:
+
+- Organ-Based Navigation
+- Pattern Recognition
+- Differential Diagnosis
+- Immunohistochemistry
+- Molecular Pathology
+- Reporting Templates
+- Diagnostic Pearls
+
+Pathology GPS represents the educational and technological innovation arm of this platform.
+
+[Visit Pathology GPS](/guide/)
+
+---
+
+## Financial Operations
+
+### Internal Access Portal
+
+This section is reserved for internal business operations.
+
+Future applications may include:
+
+- Revenue Tracking
+- Accounts Receivable
+- Payroll Management
+- Quarterly Tax Planning
+- Financial Reporting
+- Business Analytics
+
+Access is restricted to authorized users.
+
+---
+
+## Vision
+
+The long-term goal is to integrate:
+
+- Clinical Excellence
+- Pathology Education
+- Diagnostic Technology
+- Business Sustainability
+
+into a unified professional platform that supports better pathology practice and better patient care.
+
+---
+
+> Excellence in diagnosis. Excellence in education. Excellence in service.
