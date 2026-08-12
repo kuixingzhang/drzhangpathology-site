@@ -6,19 +6,19 @@
   @include clearfix;
 
   background: transparent;
-  color: #888;
+  color: #999;
 
   float: left;
   width: 100%;
   clear: both;
 
-  margin-top: 1em;
-  padding: 0.5em 0;
+  margin-top: 0;
+  padding: 0;
 
   position: relative;
   bottom: auto;
 
-  border-top: 1px solid #eee;
+  border-top: none;
 }
 
   -webkit-animation: intro 0.3s both;
@@ -70,6 +70,7 @@
   font-size: $type-size-7;
   text-align: center;
   color: #999;
+  padding: 4px 0;
 }
 
 .page__footer-follow {
