@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Zhang Pathology
-
 ### *Diagnostic Excellence in Pathology*
 
 A professional platform dedicated to pathology practice, education, innovation, and lifelong learning.
