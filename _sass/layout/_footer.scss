@@ -3,44 +3,30 @@
    ========================================================================== */
 
 .page__footer {
+  position: fixed !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+
   background: transparent !important;
   border-top: none !important;
 
-  margin-top: 0 !important;
+  margin: 0 !important;
   padding: 0 !important;
-
-.page__footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-}
-  bottom: auto !important;
-
-.page__footer {
-  background: transparent !important;
-  border-top: none !important;
-}
-   
-  width: 100%;
 }
 
 .page__footer footer {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.page__footer-follow {
+  display: none !important;
 }
 
 .page__footer-copyright {
   text-align: left;
   color: #999;
   font-size: 0.75em;
-
-  padding: 4px 0;
-}
-
-.page__footer-follow {
-  display: none;
-}
-
-.page__footer {
-  background: none !important;
+  padding: 4px 10px;
 }
