@@ -4,8 +4,6 @@ title: "Business"
 author_profile: true
 ---
 
-# Business
-
 ### Professional Practice, Innovation, and Operations
 
 This section serves as the professional business hub of Zhang Pathology.
