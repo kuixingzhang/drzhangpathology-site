@@ -7,89 +7,83 @@ redirect_from:
   - /about.html
 ---
 
-# A Practical GPS for Diagnostic Pathology
+# Zhang Pathology
 
-### *Designed for the way pathologists actually work.*
+### *Diagnostic Excellence in Pathology*
 
-Helping pathologists make accurate and confident diagnoses through **organ-based organization**, **pattern recognition**, and **practical diagnostic reasoning**.
+A professional platform dedicated to pathology practice, education, innovation, and lifelong learning.
 
-> **From Organ → Pattern → Diagnosis**
+Founded by **Kuixing Zhang, MD, Ph.D.**, Zhang Pathology brings together practical diagnostic experience, pathology education, clinical leadership, and the development of new tools that support pathologists in everyday practice.
+
+> **Think Like a Pathologist. Diagnose with Confidence.**
+
+---
+
+## Teaching
+
+Education is a central mission of this platform.
+
+Teaching materials are designed for residents, fellows, and practicing pathologists, with an emphasis on practical diagnostic reasoning, pattern recognition, and real-world sign-out experience.
+
+Topics include:
+
+- Organ-Based Pathology
+- Diagnostic Pearls
+- Unknown Cases
+- Board Review
+- Practical Sign-out Tips
+- Challenging Cases
 
 ---
 
 ## Pathology GPS
 
-**Pathology GPS** is the core of this platform.
+Pathology GPS is an evolving educational and diagnostic platform designed to help pathologists navigate complex diagnoses.
 
-Unlike traditional pathology textbooks or academic websites, Pathology GPS is organized according to the way practicing pathologists actually approach difficult cases.
+Built around the workflow of everyday pathology practice, it organizes knowledge according to:
 
-Each topic begins with an **organ system**, progresses through **morphologic patterns**, and ultimately leads to **differential diagnosis, immunohistochemistry, molecular findings, reporting recommendations, and common diagnostic pitfalls**.
+> **Organ → Pattern → Diagnosis**
 
-This is not simply a collection of pathology knowledge.
-
-It is a practical navigation system designed to support real-world diagnostic decision making.
+The goal is to transform uncertainty into diagnostic confidence.
 
 ---
 
-## Teaching Atlas
+## Business
 
-Teaching Atlas integrates practical teaching with everyday diagnostic experience.
+### Raphael Clinic Corp
 
-Future content will include:
+A California professional medical corporation focused on pathology and laboratory medicine.
 
-- Unknown Cases
-- Whole Slide Teaching
-- Diagnostic Pearls
-- Board Review
-- Challenging Cases
-- Practical Sign-out Tips
+### Pathology GPS
 
-The goal is not only to teach pathology, but to teach diagnostic thinking.
-
----
-
-## Resources
-
-Resources will provide carefully selected references that practicing pathologists use every day.
-
-Including:
-
-- WHO Classification
-- CAP Protocols
-- AJCC Staging
-- Immunohistochemistry
-- Molecular Pathology
-- Artificial Intelligence
-- Useful Diagnostic References
+Development of innovative educational and diagnostic tools for pathology practice.
 
 ---
 
 ## About
 
-**Kuixing "Quincy" Zhang, MD, Ph.D.**
+**Kuixing Zhang, MD, Ph.D.**
 
-Medical Director
-
-Department of Pathology & Laboratory Medicine
+Medical Director, Pathology & Laboratory Medicine
 
 Saint Agnes Medical Center
 
 Fresno, California
 
-Dr. Zhang is a board-certified Anatomic and Clinical Pathologist with subspecialty fellowship training in Gastrointestinal and Liver Pathology. His professional interests include surgical pathology, laboratory medicine, pathology education, digital pathology, and artificial intelligence in pathology.
+Board-Certified Anatomic and Clinical Pathologist
+
+Fellowship-Trained in Gastrointestinal and Liver Pathology
+
+Professional interests include surgical pathology, laboratory medicine, pathology education, digital pathology, and artificial intelligence in pathology.
 
 ---
 
 ## Our Philosophy
 
-> **Think Like a Pathologist. Diagnose with Confidence.**
+Pathology is more than the study of disease.
 
-Every page on this platform is designed with one objective:
+It is the discipline of transforming uncertainty into understanding and helping clinicians make better decisions for their patients.
 
-**Help pathologists make tomorrow's diagnosis a little easier.**
+Every project within Zhang Pathology—whether educational, clinical, or technological—is guided by the same objective:
 
-Rather than emphasizing academic completeness, Zhang Pathology focuses on practical diagnostic reasoning that can be applied immediately in daily sign-out.
-
----
-
-*Zhang Pathology is an evolving educational platform dedicated to practical diagnostic excellence, lifelong learning, and better patient care through accurate diagnosis.*
+**Advance diagnostic excellence and improve patient care through accurate diagnosis.**
