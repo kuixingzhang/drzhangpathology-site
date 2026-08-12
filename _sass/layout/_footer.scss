@@ -9,9 +9,18 @@
   margin-top: 0 !important;
   padding: 0 !important;
 
-  position: relative !important;
+.page__footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
   bottom: auto !important;
 
+.page__footer {
+  background: transparent !important;
+  border-top: none !important;
+}
+   
   width: 100%;
 }
 
