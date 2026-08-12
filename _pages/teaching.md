@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 ### Educational Resources for Pathologists and Trainees
 
 A collection of lectures, slide sets, conference presentations, and practical teaching materials developed for pathology education.
